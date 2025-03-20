@@ -1,6 +1,6 @@
 # Hi, I'm Baran Aslan! 👋
 
-🎓 **4th Year Computer Engineering Student** at Kadir Has University (GPA: 3.85)
+🎓 **4th Year Computer Engineering Student** at Kadir Has University (GPA: 3.86)
 💻 **Passionate Developer & Researcher** | Web Development | AI | AR/VR
 
 ## 🚀 About Me
