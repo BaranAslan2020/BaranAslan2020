@@ -21,7 +21,7 @@
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![UI Path](https://img.shields.io/badge/-UI%20Path-FF6F00?style=flat&logo=uipath&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaranAslan2020&layout=compact&theme=tokyonight)
 
 
 ## 🌍 Let's Connect!
