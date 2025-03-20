@@ -29,7 +29,7 @@
 
 
 ### 🔥 Current Projects
-- 🌐 **Novel Reading Website** - A self-developed platform using **React.js, Tailwind CSS, and Node.js**.
+- 🌐 **Novel Reading Website** - A reading platform using **React.js, Tailwind CSS, and Node.js**.
 - 🎯 **Time Management App** - Detects user activity and restricts unauthorized browsing using **Python & Node.js**.
 
 
