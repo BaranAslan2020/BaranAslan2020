@@ -32,6 +32,5 @@
 - 🌐 **Novel Reading Website** - A self-developed platform using **React.js, Tailwind CSS, and Node.js**.
 - 🎯 **Time Management App** - Detects user activity and restricts unauthorized browsing using **Python & Node.js**.
 
-![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 💡 Always open to new opportunities and collaborations!
